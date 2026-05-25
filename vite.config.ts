@@ -5,7 +5,7 @@ import { traeBadgePlugin } from 'vite-plugin-trae-solo-badge';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.NODE_ENV === 'production' ? '/DOTA2-item/' : '/',
+  base: process.env.NODE_ENV === 'production' ? '/Dota2_item_v1/' : '/',
   build: {
     sourcemap: 'hidden',
   },

@@ -34,7 +34,7 @@ export default function Navbar({ onSearch, activeAttribute, onAttributeChange }:
           <Link to="/" className="flex items-center gap-2 text-dota-gold hover:text-dota-gold/80 transition-colors">
             <Sword className="w-8 h-8" />
             <span className="font-display text-xl font-bold tracking-wider hidden sm:block">
-              DOTA2 出装助手
+              Charles Works
             </span>
           </Link>
 

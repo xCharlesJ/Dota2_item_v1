@@ -85,7 +85,7 @@ export default function HeroListPage() {
 
       {/* Footer */}
       <footer className="border-t border-dota-border py-6 text-center text-slate-600 text-xs">
-        Charles Works · 数据仅供参考 · 实际游戏请根据局势灵活调整
+        Dota2Tips · 数据仅供参考 · 实际游戏请根据局势灵活调整
       </footer>
     </div>
   );
